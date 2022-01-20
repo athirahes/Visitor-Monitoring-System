@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Premise Queue</string>
+    <string name="premise_queue">Premise Queue</string>
+    <string name="book_your_journey">Book your journey</string>
+    <string name="search_for_premises">Search for premises</string>
+    <string name="premise_name">Premise Name</string>
+    <string name="premise_type">Premise Type</string>
+    <string name="visiting_count_text">12</string>
+    <string name="visits_now">Visits Now</string>
+    <string name="slash">/</string>
+    <string name="visitorAllowed">20</string>
+    <string name="premise_name2">Premise Name</string>
+    <string name="premise_type2">Premise Type</string>
+    <string name="premise_description">Premise Description</string>
+    <string name="navigate">NAVIGATE</string>
+    <string name="queue_to_visit">QUEUE TO VISIT</string>
+    <string name="stop_tracking_queue">STOP TRACKING QUEUE</string>
+    <string name="review">Review</string>
+    <string name="specify_lbl">Number of Visitors:</string>
+    <string name="reminder_lbl">Reminder: Max. guest(s) allowed into this property is </string>
+    <string name="no_internet">This Application requires an internet connection</string>
+    <string name="aboutus">Visitor Management System (VMS) is a system to monitor real-time queue in each premise. Visitors are able to queue before entering any premise within their location  </string>
+
+    <string-array name="premise_name">
+        <item>Dummy - Nasi Ayam Singapura</item>
+        <item>Dummy - Nasi Ayam Suriya</item>
+        <item>Dummy - XYZ Cafe</item>
+        <item>Dummy - XYZ Food Truck</item>
+        <item>Dummy - Restoran Asri Rosmerah</item>
+        <item>Dummy - Kobemas Hotel Melaka</item>
+        <item>Dummy - Coffeeology</item>
+        <item>Dummy - Daesco</item>
+
+    </string-array>
+
+    <string-array name="premise_type">
+        <item>Dummy - Restaurant</item>
+        <item>Dummy - Food Court</item>
+        <item>Dummy - Restaurant</item>
+        <item>Dummy - Food Truck</item>
+        <item>Dummy - Restaurant</item>
+        <item>Dummy - Hotel</item>
+        <item>Dummy - Cafe</item>
+        <item>Dummy - Supermarket</item>
+    </string-array>
+
+    <string-array name="premise_description">
+        <item>Dummy - The chicken rice is very delicious and cheap! Only RM 4.50 per set.</item>
+        <item>Dummy - Delicious chicken rice. Black pepper sauce sold separately.</item>
+        <item>Dummy - This cafe sells delicious food with affordable price.</item>
+        <item>Dummy - The mobile truck for XYZ Cafe.</item>
+        <item>Dummy - They have the best Tandoori chickens in the area.</item>
+        <item>Dummy - Quiet and comfy hotel</item>
+        <item>Dummy - Best Café in the area</item>
+        <item>Dummy - NULL</item>
+    </string-array>
+
+    <string-array name="premise_location">
+        <item>https://goo.gl/maps/RyNsTzDZX6egh9XXA</item>
+        <item>https://goo.gl/maps/WqcHWvnfA2zcjNp19</item>
+        <item>https://goo.gl/maps/MTNVYw8wZ6yCUdMU8</item>
+        <item>https://goo.gl/maps/V33APggwEBHqBLkD6</item>
+        <item>https://goo.gl/maps/6Qa9S6tuQd6nDZu58</item>
+        <item>https://goo.gl/maps/LG5h6zPh9DKfEg5M9</item>
+        <item>https://goo.gl/maps/ktVhHhUfdwEeMsDS7</item>
+        <item>null</item>
+    </string-array>
+
+    <string-array name="countVisiting">
+        <item>15</item>
+        <item>112</item>
+        <item>7</item>
+        <item>7</item>
+        <item>15</item>
+        <item>112</item>
+        <item>7</item>
+        <item>7</item>
+        <item>9</item>
+    </string-array>
+
+    <string-array name="visitorAllowed">
+        <item>20</item>
+        <item>200</item>
+        <item>10</item>
+        <item>50</item>
+        <item>20</item>
+        <item>230</item>
+        <item>10</item>
+        <item>50</item>
+        <item>15</item>
+    </string-array>
+
+</resources>
