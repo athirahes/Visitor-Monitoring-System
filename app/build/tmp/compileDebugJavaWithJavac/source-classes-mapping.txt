@@ -1,0 +1,47 @@
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/interfaces/DialogCallback.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.interfaces.DialogCallback
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/widgets/CustomDialog.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.widgets.CustomDialog
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/MainActivity.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.MainActivity
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.MainActivity$1
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/PremisesListTaskLoader.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.PremisesListTaskLoader
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/utils/GlobalUtils.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.utils.GlobalUtils
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.utils.GlobalUtils$1
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.utils.GlobalUtils$2
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/AboutUs.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.AboutUs
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/AppNotificationReceiver.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.AppNotificationReceiver
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/PrefConfig.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.PrefConfig
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.PrefConfig$1
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/Booking.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.Booking
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.Booking$1
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.Booking$2
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.Booking$3
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.Booking$4
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/QueueDialog.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.QueueDialog
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.QueueDialog$1
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.QueueDialog$2
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.QueueDialog$3
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.QueueDialog$4
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.QueueDialog$QueueDialogInterFace
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/Premise.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.Premise
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/AppNotification.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.AppNotification
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/PremiseViewHolder.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.PremiseViewHolder
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/SplashScreen.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.SplashScreen
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.SplashScreen$1
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/BuildConfig.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.BuildConfig
+my/edu/utem/ftmk/workshop2/visitor/monitoring/system/v1/PremiseAdapter.java
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.PremiseAdapter
+ my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1.PremiseAdapter$1

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "COMPATIBLE_SCREEN_MANIFEST",
+    "kind": "Directory"
+  },
+  "applicationId": "my.edu.utem.ftmk.workshop2.visitor.monitoring.system.v1",
+  "variantName": "debug",
+  "elements": []
+}
